@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NxHashTool", "NxHashTool.csproj", "{DBA94294-C3B3-493D-96AC-7973D86CD5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA94294-C3B3-493D-96AC-7973D86CD5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA94294-C3B3-493D-96AC-7973D86CD5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA94294-C3B3-493D-96AC-7973D86CD5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA94294-C3B3-493D-96AC-7973D86CD5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F91823A9-A3AD-4715-9153-C840DC88DC2B}
+	EndGlobalSection
+EndGlobal
